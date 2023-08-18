@@ -30,12 +30,10 @@
 <!-- ![mjuna12's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mjuna12&hide_border=true&theme=redical) -->
 
 ## 🤝🏻 Connect with Me!
-[![Email: mjuna12@gmail.com](https://img.shields.io/badge/-mjuna12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mjuna12@gmail.com)
-[![LinkedIn: Fachridan Tio Mu'afa](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjuna12/)](https://www.linkedin.com/in/mjuna12/)&nbsp;
-[![Instagram: Follow mjuna12](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mjuna12)&nbsp;
-[![Telegram: mjuna12](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/mjuna12)](https://t.me/mjuna12)&nbsp;
-[![Linktree: mjuna12](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/mjuna12)](https://linktr.ee/mjuna12)&nbsp;
-[![Twitter: Follow @mjuna12](https://img.shields.io/twitter/follow/mjuna12?style=social)](https://twitter.com/mjuna12)
+[![Email: muhammadfarhan.mf711@gmail.com](https://img.shields.io/badge/-mjuna12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhammadfarhan.mf711@gmail.com)
+[![LinkedIn: Muhammad Farhan Juna](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfarhanjuna/)](https://www.linkedin.com/in/muhammadfarhanjuna/)&nbsp;
+[![Instagram: Follow mjuna_](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mjuna_)&nbsp;
+[![Twitter: Follow @mjuna_](https://img.shields.io/twitter/follow/mjuna12?style=social)](https://twitter.com/mjuna_)
 ---
 
 <img align="center" src="https://github.com/mjuna12/mjuna12/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
