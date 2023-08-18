@@ -1,28 +1,41 @@
-### Hi! 👋 I'm Juna.
+# Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://mjuna12.github.io/)
 
-- 📫 How to reach me: muhammadfarhan.mf711@gmail.com
-- ⚡ Fun fact: Father of a daughter
+<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="Phyton" title="Phyton" width="21px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" /></a>
-  <a href="https://phyton.org/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <br>
-  <br>
+![version: 02.07.2023](https://img.shields.io/badge/version-02.07.2023-informational)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=mjuna12&style=flat&label=visitors)&nbsp;
+[![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@mjuna12)&nbsp;
+[![GitHub: mjuna12](https://img.shields.io/github/followers/mjuna12?label=follow&style=social)](https://github.com/mjuna12)&nbsp;
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/mjuna12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjuna12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjuna12&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+#### Welcome to my [Codepark](https://mjuna12.github.io/)! 🏡
 
-### Reach me on
-- <a href="https://linkedin.com/in/muhammad-farhan-juna-a772a9211/">LinkedIn</a>
-- <a href="https://mjunsy.com">mjunsy.com</a>
-- muhammadfarhan.mf711@gmail.com
-- <a href="https://twitter/mjuna_">Twitter</a>
-- <a href="https://twitter/mjuna_">Instagram</a>
+## 🛠 Tech Stack
+  [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/mjuna12/)&nbsp;
+  [![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/mjuna12/)&nbsp;
+
+## 📈 Github Stats
+  
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjuna12&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="mjuna12's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjuna12&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="mjuna12's Most Used Language">
+| ------------- | ------------- |  
+
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mjuna12&hide_border=true&theme=radical">
+| ------------- |
+
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjuna12&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@mjuna12)
+| ------------- |
+
+---
+
+<!-- ![mjuna12's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mjuna12&hide_border=true&theme=redical) -->
+
+## 🤝🏻 Connect with Me!
+[![Email: mjuna12@gmail.com](https://img.shields.io/badge/-mjuna12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mjuna12@gmail.com)
+[![LinkedIn: Fachridan Tio Mu'afa](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjuna12/)](https://www.linkedin.com/in/mjuna12/)&nbsp;
+[![Instagram: Follow mjuna12](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mjuna12)&nbsp;
+[![Telegram: mjuna12](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/mjuna12)](https://t.me/mjuna12)&nbsp;
+[![Linktree: mjuna12](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/mjuna12)](https://linktr.ee/mjuna12)&nbsp;
+[![Twitter: Follow @mjuna12](https://img.shields.io/twitter/follow/mjuna12?style=social)](https://twitter.com/mjuna12)
+---
+
+<img align="center" src="https://github.com/mjuna12/mjuna12/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
