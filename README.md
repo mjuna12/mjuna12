@@ -4,7 +4,7 @@
 
 ![version: 02.07.2023](https://img.shields.io/badge/version-02.07.2023-informational)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=mjuna12&style=flat&label=visitors)&nbsp;
-[![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@mjuna12)&nbsp;
+[![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@mjunaa)&nbsp;
 [![GitHub: mjuna12](https://img.shields.io/github/followers/mjuna12?label=follow&style=social)](https://github.com/mjuna12)&nbsp;
 
 #### Welcome to my [Codepark](https://mjuna12.github.io/)! 🏡
@@ -24,7 +24,7 @@
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mjuna12&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjuna12&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@mjuna12)
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjunaa&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@mjunaaa)
 | ------------- |
 
 ---
