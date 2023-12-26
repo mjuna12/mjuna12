@@ -24,7 +24,7 @@
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mjuna12&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjunaa&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@mjunaaa)
+[![wakatime](https://wakatime.com/badge/user/e27bf69a-acd7-4a16-9268-4dc5a95f7580.svg)](https://wakatime.com/@e27bf69a-acd7-4a16-9268-4dc5a95f7580)
 | ------------- |
 
 ---
