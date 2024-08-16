@@ -18,7 +18,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjuna12&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="mjuna12's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjuna12&langs_count=8&layout=compact&hide_border=true&theme=github_dark" alt="mjuna12's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjuna12&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" alt="mjuna12's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjuna12&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="mjuna12's Most Used Language">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mjuna12&hide_border=true&theme=github_dark">
