@@ -27,6 +27,8 @@
 [![wakatime](https://wakatime.com/badge/user/e27bf69a-acd7-4a16-9268-4dc5a95f7580.svg)](https://wakatime.com/@e27bf69a-acd7-4a16-9268-4dc5a95f7580)
 | ------------- |
 
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjunaa&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@mjunaa)
+
 ---
 
 <!-- ![mjuna12's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mjuna12&hide_border=true&theme=redical) -->
