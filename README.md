@@ -18,16 +18,16 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjuna12&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="mjuna12's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjuna12&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="mjuna12's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjuna12&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="mjuna12's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjuna12&langs_count=8&layout=compact&hide_border=true&theme=github_dark" alt="mjuna12's Most Used Language">
 | ------------- | ------------- |  
 
-| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mjuna12&hide_border=true&theme=radical">
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mjuna12&hide_border=true&theme=github_dark">
 | ------------- |
 
 [![wakatime](https://wakatime.com/badge/user/e27bf69a-acd7-4a16-9268-4dc5a95f7580.svg)](https://wakatime.com/@e27bf69a-acd7-4a16-9268-4dc5a95f7580)
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjunaa&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@mjunaa)
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@e27bf69a-acd7-4a16-9268-4dc5a95f7580&layout=compact&hide_border=true&theme=github_dark">](https://wakatime.com/@e27bf69a-acd7-4a16-9268-4dc5a95f7580)
 
 ---
 
