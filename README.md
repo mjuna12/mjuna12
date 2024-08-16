@@ -40,4 +40,5 @@
 [![Twitter: Follow @mjuna_](https://img.shields.io/twitter/follow/mjuna12?style=social)](https://twitter.com/mjuna_)
 ---
 
-<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+<img align="center" src="github-user-contribution (1).svg" alt="Snake">
+
