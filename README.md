@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Farhan Juna 👋
 
-<img src="header_.png" width="100%" alt="Muhammad Farhan Juna — Frontend Engineer">
+<img src="Header1.png" width="100%" alt="Muhammad Farhan Juna — Frontend Engineer">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mjuna12&style=flat-square&label=Profile+Views" alt="Profile Views" />
