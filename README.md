@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Farhan Juna 👋
 
-<img src="Header1.png" width="100%" alt="Muhammad Farhan Juna — Frontend Engineer">
+<img src="Header1.png" width="100%" alt="Muhammad Farhan Juna — Frontend Developer & Visual Web Designer">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mjuna12&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -9,23 +9,28 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Muhammad Farhan Juna**, a Frontend Engineer based in Yogyakarta, Indonesia.
+I'm **Muhammad Farhan Juna**, a **Frontend Developer & Visual Web Designer** based in Yogyakarta, Indonesia.
 
-I enjoy building modern, scalable, and thoughtfully designed web applications — with a strong focus on the intersection of **frontend engineering, UI/UX, design systems, and developer experience**.
+I build polished, responsive web experiences that combine **frontend engineering, visual design, motion, and thoughtful user experience**.
 
-Currently, I work mostly with **React, Next.js, Vue, Nuxt, TypeScript, and Tailwind CSS**, while also exploring backend development with **Go and PostgreSQL**.
+My work ranges from **SaaS dashboards and web applications** to **landing pages, design systems, and Figma-to-frontend implementation**, with a focus on clean interfaces, reusable components, performance, and maintainable code.
 
-I'm also building **[Junno UI](https://junno-ui.com/)** — a growing collection of modern UI components, patterns, and resources for developers.
+I mainly work with **React, Next.js, Vue, Nuxt, TypeScript, and Tailwind CSS**, while also using **Figma, Framer, and Webflow** to bridge the gap between design and development.
 
-### What I'm focused on
+I'm also building **[Junno UI](https://junno-ui.com/)** — a collection of modern UI components, templates, patterns, and resources for developers.
 
-- ⚡ Building modern web applications with React, Next.js, Vue & Nuxt
-- 🎨 Creating polished UI, design systems & reusable components
-- 🧩 Building and growing [Junno UI](https://junno-ui.com/)
-- 🛠️ Exploring full-stack development with Go & PostgreSQL
-- 🌱 Continuously improving performance, accessibility & developer experience
+---
+
+## ⚡ What I Do
+
+* 🖥️ SaaS dashboards, admin panels & web applications
+* ✨ Visual websites & high-quality landing pages
+* 🎨 Figma to responsive, pixel-accurate frontend
+* 🧩 Reusable components & design systems
+* 🎬 Motion & interactive web experiences
+* 🔧 Frontend integration, refactoring & performance improvements
 
 ---
 
@@ -37,6 +42,14 @@ I'm also building **[Junno UI](https://junno-ui.com/)** — a growing collection
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,typescript,javascript,tailwind,html,css" />
 </p>
 
+### Design & Visual Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+**Figma · Framer · Webflow · Design Systems · Responsive Design · Motion**
+
 ### Backend & Database
 
 <p>
@@ -46,26 +59,16 @@ I'm also building **[Junno UI](https://junno-ui.com/)** — a growing collection
 ### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Work
+## 🌐 Portfolio
 
-### Junno UI
+Explore selected work across **frontend engineering, SaaS interfaces, landing pages, design systems, and visual web development**.
 
-A collection of modern UI components, patterns, and resources built for developers creating polished web experiences.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS · Go · PostgreSQL
-
-🔗 [junno-ui.com](https://junno-ui.com/)
-
-### Personal Portfolio
-
-Selected frontend, UI engineering, and web development projects.
-
-🔗 [mfarrhanjuna.my.id](https://mfarrhanjuna.my.id/)
+### → [mfarrhanjuna.my.id](https://mfarrhanjuna.my.id/)
 
 ---
 
@@ -94,21 +97,21 @@ Selected frontend, UI engineering, and web development projects.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="mailto:muhammadfarhan.mf711@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/muhammadfarhanjuna/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="https://github.com/mjuna12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+
   <a href="https://dribbble.com/muhammadfarhanjuna">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
