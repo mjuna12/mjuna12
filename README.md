@@ -17,7 +17,7 @@ I build polished, responsive web experiences that combine **frontend engineering
 
 My work ranges from **SaaS dashboards and web applications** to **landing pages, design systems, and Figma-to-frontend implementation**, with a focus on clean interfaces, reusable components, performance, and maintainable code.
 
-I mainly work with **React, Next.js, Vue, Nuxt, TypeScript, and Tailwind CSS**, while also using **Figma, Framer, and Webflow** to bridge the gap between design and development.
+I mainly work with **React, Next.js, Vue, Nuxt, TypeScript, and Tailwind CSS**, while using **Figma, Webflow, and Framer** to bridge the gap between design and development.
 
 I'm also building **[Junno UI](https://junno-ui.com/)** — a collection of modern UI components, templates, patterns, and resources for developers.
 
@@ -26,11 +26,11 @@ I'm also building **[Junno UI](https://junno-ui.com/)** — a collection of mode
 ## ⚡ What I Do
 
 * 🖥️ SaaS dashboards, admin panels & web applications
-* ✨ Visual websites & high-quality landing pages
+* ✨ Visual websites & modern landing pages
 * 🎨 Figma to responsive, pixel-accurate frontend
 * 🧩 Reusable components & design systems
 * 🎬 Motion & interactive web experiences
-* 🔧 Frontend integration, refactoring & performance improvements
+* 🔧 Frontend integration, refactoring & performance optimization
 
 ---
 
@@ -38,37 +38,41 @@ I'm also building **[Junno UI](https://junno-ui.com/)** — a collection of mode
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,typescript,javascript,tailwind,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,typescript,javascript,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
 ### Design & Visual Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
 </p>
 
-**Figma · Framer · Webflow · Design Systems · Responsive Design · Motion**
+**Design Systems · Responsive Design · Prototyping · Motion · UI/UX**
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,postgres,mysql,redis" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,postgres,mysql,redis" alt="Backend technologies" />
 </p>
 
 ### Tools & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" alt="Development tools" />
 </p>
 
 ---
 
 ## 🌐 Portfolio
 
-Explore selected work across **frontend engineering, SaaS interfaces, landing pages, design systems, and visual web development**.
+Explore my selected work across **frontend engineering, SaaS interfaces, visual websites, landing pages, and design systems**.
 
-### → [mfarrhanjuna.my.id](https://mfarrhanjuna.my.id/)
+<a href="https://mfarrhanjuna.my.id/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-mfarrhanjuna.my.id-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 
@@ -99,26 +103,28 @@ Explore selected work across **frontend engineering, SaaS interfaces, landing pa
 
 ## 🤝 Let's Connect
 
+I'm open to opportunities and collaborations around **frontend development, SaaS products, visual websites, and design-driven web experiences**.
+
 <p align="left">
   <a href="mailto:muhammadfarhan.mf711@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <a href="https://www.linkedin.com/in/muhammadfarhanjuna/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/mjuna12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="https://dribbble.com/muhammadfarhanjuna">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Designing interfaces. Building products. Shipping ideas.</sub>
+  <sub>Designing interfaces · Building products · Shipping ideas.</sub>
 </p>
