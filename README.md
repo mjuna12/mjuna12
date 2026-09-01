@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Farhan Juna 👋
+# Hi, I'm Juna 👋
 
 <img src="Header1.png" width="100%" alt="Muhammad Farhan Juna — Frontend Developer & Visual Web Designer">
 
