@@ -1,6 +1,6 @@
 # Hi, I'm Juna 👋
 
-<img src="Header1.png" width="100%" alt="Muhammad Farhan Juna — Frontend Developer & Visual Web Designer">
+<img src="Header1.png" width="100%" alt="Muhammad Farhan Juna — Web Designer & Frontend Developer">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mjuna12&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -11,36 +11,33 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Farhan Juna**, a **Frontend Developer & Visual Web Designer** based in Yogyakarta, Indonesia.
+I'm **Muhammad Farhan Juna**, a **Web Designer & Frontend Developer** based in Yogyakarta, Indonesia.
 
-I build polished, responsive web experiences that combine **frontend engineering, visual design, motion, and thoughtful user experience**.
+I design and build polished digital experiences that combine **visual design, frontend development, motion, and thoughtful user experience**.
 
-My work ranges from **SaaS dashboards and web applications** to **landing pages, design systems, and Figma-to-frontend implementation**, with a focus on clean interfaces, reusable components, performance, and maintainable code.
+My work focuses on **modern websites, landing pages, SaaS interfaces, design systems, and responsive frontend experiences** with an emphasis on strong typography, layout, interaction, performance, and maintainable implementation.
 
-I mainly work with **React, Next.js, Vue, Nuxt, TypeScript, and Tailwind CSS**, while using **Figma, Webflow, and Framer** to bridge the gap between design and development.
+I work across both **design and development**, using **Figma, Webflow, and Framer** for visual design and prototyping, alongside **React, Next.js, Vue, Nuxt, TypeScript, and Tailwind CSS** for custom frontend development.
 
-I'm also building **[Junno UI](https://junno-ui.com/)** — a collection of modern UI components, templates, patterns, and resources for developers.
+My goal is to create websites that are not only functional, but also feel **clear, intentional, responsive, and visually refined**.
 
 ---
 
 ## ⚡ What I Do
 
-* 🖥️ SaaS dashboards, admin panels & web applications
-* ✨ Visual websites & modern landing pages
-* 🎨 Figma to responsive, pixel-accurate frontend
-* 🧩 Reusable components & design systems
-* 🎬 Motion & interactive web experiences
-* 🔧 Frontend integration, refactoring & performance optimization
+* 🎨 Web design & visual direction
+* ✨ Modern landing pages & marketing websites
+* 🖥️ SaaS dashboards & web applications
+* 📐 Responsive UI design & implementation
+* 🎯 Figma to pixel-accurate frontend
+* 🧩 Design systems & reusable components
+* 🎬 Motion, interactions & micro-interactions
+* ⚡ Frontend performance & responsive optimization
+* 🌐 Webflow & Framer development
 
 ---
 
 ## 🛠 Tech Stack
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,typescript,javascript,tailwind,html,css" alt="Frontend technologies" />
-</p>
 
 ### Design & Visual Development
 
@@ -50,25 +47,25 @@ I'm also building **[Junno UI](https://junno-ui.com/)** — a collection of mode
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
 </p>
 
-**Design Systems · Responsive Design · Prototyping · Motion · UI/UX**
+**Web Design · UI/UX · Responsive Design · Design Systems · Prototyping · Motion · Interaction Design**
 
-### Backend & Database
+### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,postgres,mysql,redis" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,typescript,javascript,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
-### Tools & Infrastructure
+### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Development tools" />
 </p>
 
 ---
 
 ## 🌐 Portfolio
 
-Explore my selected work across **frontend engineering, SaaS interfaces, visual websites, landing pages, and design systems**.
+Explore my selected work across **web design, visual websites, landing pages, SaaS interfaces, and frontend development**.
 
 <a href="https://mfarrhanjuna.my.id/">
   <img src="https://img.shields.io/badge/View%20Portfolio-mfarrhanjuna.my.id-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -103,7 +100,7 @@ Explore my selected work across **frontend engineering, SaaS interfaces, visual 
 
 ## 🤝 Let's Connect
 
-I'm open to opportunities and collaborations around **frontend development, SaaS products, visual websites, and design-driven web experiences**.
+I'm open to opportunities and collaborations around **web design, creative development, landing pages, SaaS products, and design-driven digital experiences**.
 
 <p align="left">
   <a href="mailto:muhammadfarhan.mf711@gmail.com">
@@ -126,5 +123,5 @@ I'm open to opportunities and collaborations around **frontend development, SaaS
 ---
 
 <p align="center">
-  <sub>Designing interfaces · Building products · Shipping ideas.</sub>
+  <sub>Designing experiences · Building interfaces · Bringing ideas to life.</sub>
 </p>
